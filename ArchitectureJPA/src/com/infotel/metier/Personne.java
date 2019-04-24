@@ -15,7 +15,7 @@ import javax.persistence.InheritanceType;
 import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToOne;
-
+// ma classe adresse
 @Entity
 		@Inheritance(strategy =InheritanceType.SINGLE_TABLE)
 		@DiscriminatorColumn(name="TYPE_PERS")
