@@ -1,0 +1,15 @@
+package com.infotel.dao;
+
+
+import com.infotel.metier.Personne;
+
+public interface Idao {
+	
+
+	public int ajouterPersonne(Personne p);
+	public Personne getPersonne (int idPersonne);
+	public Personne affichagePersonne (int idPersonne);
+	public int supprimerPersonne (Personne p);
+	public int modifierPersonne (Personne p);
+	
+}

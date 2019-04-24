@@ -1,0 +1,5 @@
+package com.infotel.services;
+
+public interface Iservice {
+
+}

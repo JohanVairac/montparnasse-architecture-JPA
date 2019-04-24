@@ -1,0 +1,13 @@
+package com.infotel.presentation;
+
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public final class Lanceur {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("demojpa-pu");
+	}
+
+}

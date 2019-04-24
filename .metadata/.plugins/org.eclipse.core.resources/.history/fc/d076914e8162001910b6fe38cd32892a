@@ -1,0 +1,23 @@
+package com.infotel.presentation;
+
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+import com.infotel.metier.Personne;
+import com.infotel.services.Iservice;
+import com.infotel.services.serviceImpl;
+
+public final class Lanceur {
+	
+
+
+	public static void main(String[] args) {
+		
+		Iservice service=new serviceImpl();
+		Personne p = new Personne ();
+		p.setNom("Vairac");
+		p.setPrenom("Johan");
+		p.setAge(27);
+	}
+
+}

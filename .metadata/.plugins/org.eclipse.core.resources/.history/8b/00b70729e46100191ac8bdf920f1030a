@@ -1,0 +1,9 @@
+package com.infotel.metier;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Client {
+
+	private int numeroAdherent;
+}

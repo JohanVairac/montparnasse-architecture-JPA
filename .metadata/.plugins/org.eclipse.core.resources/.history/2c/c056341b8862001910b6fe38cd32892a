@@ -1,0 +1,17 @@
+package com.infotel.services;
+
+import com.infotel.dao.Idao;
+import com.infotel.dao.daoImpl;
+import com.infotel.metier.Personne;
+
+public class serviceImpl implements Iservice {
+
+	private Idao dao = new daoImpl();
+	
+	@Override
+	public int ajouterPersonne(Personne p) {
+		// TODO Auto-generated method stub
+		return dao.ajouterPersonne(p);
+	}
+
+}

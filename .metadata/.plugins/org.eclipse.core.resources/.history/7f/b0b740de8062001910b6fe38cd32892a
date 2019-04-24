@@ -1,0 +1,13 @@
+package com.infotel.services;
+
+import com.infotel.metier.Personne;
+
+public class seviceImpl implements Iservice {
+
+	@Override
+	public int ajouterPersonne(Personne p) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

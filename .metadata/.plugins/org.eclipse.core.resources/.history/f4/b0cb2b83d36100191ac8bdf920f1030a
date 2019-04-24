@@ -1,0 +1,10 @@
+package com.infotel.presentation;
+
+public final class Lanceur {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

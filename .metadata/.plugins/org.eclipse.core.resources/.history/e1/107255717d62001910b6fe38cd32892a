@@ -1,0 +1,13 @@
+package com.infotel.dao;
+
+import com.infotel.metier.Personne;
+
+public class daoImpl implements Idao {
+
+	@Override
+	public int ajouterPersonne(Personne p) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.infotel.metier;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Employe {
+	
+	private double salaire;
+
+}

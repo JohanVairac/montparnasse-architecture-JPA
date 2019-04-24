@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\IN-MP-021\eclipse-workspace-jpa\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4029573322.index
+\ArchitectureJPAJEE\src
+C:\Users\IN-MP-021\eclipse-workspace-jpa\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1887540253.index
+\ArchitectureJPAJEE\src

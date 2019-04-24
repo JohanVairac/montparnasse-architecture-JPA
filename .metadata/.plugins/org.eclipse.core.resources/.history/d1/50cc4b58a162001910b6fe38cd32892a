@@ -1,0 +1,52 @@
+package com.infotel.services;
+
+import java.util.List;
+
+import com.infotel.dao.Idao;
+import com.infotel.dao.daoImpl;
+import com.infotel.metier.Personne;
+
+public class serviceImpl implements Iservice {
+
+	private Idao dao = new daoImpl();
+	
+	@Override
+	public int ajouterPersonne(Personne p) {
+		// TODO Auto-generated method stub
+		return dao.ajouterPersonne(p);
+	}
+
+	@Override
+	public Personne getPersonne(int idPersonne) {
+		// TODO Auto-generated method stub
+		return dao.getPersonne(idPersonne);
+	}
+
+	@Override
+	public int supprimerPersonne(Personne p) {
+		// TODO Auto-generated method stub
+		return dao.supprimerPersonne(p);
+	}
+
+	@Override
+	public int modifierPersonne(Personne p) {
+		// TODO Auto-generated method stub
+		return dao.modifierPersonne(p);
+	}
+
+	@Override
+	public Personne affichagePersonne(int idPersonne) {
+		// TODO Auto-generated method stub
+		return dao.affichagePersonne(idPersonne);
+	}
+
+	
+
+	@Override
+	public List<Personne> FindAll() {
+		// TODO Auto-generated method stub
+		return dao.FindAll();
+	}
+
+	
+}

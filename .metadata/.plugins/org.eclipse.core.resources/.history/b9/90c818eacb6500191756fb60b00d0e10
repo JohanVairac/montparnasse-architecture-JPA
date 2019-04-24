@@ -1,0 +1,84 @@
+08-Apr-2019 11:25:12.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:        Apache Tomcat/9.0.17
+08-Apr-2019 11:25:12.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé:       Mar 13 2019 15:55:27 UTC
+08-Apr-2019 11:25:12.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:      9.0.17.0
+08-Apr-2019 11:25:12.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS:           Windows 10
+08-Apr-2019 11:25:12.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version de l'OS:        10.0
+08-Apr-2019 11:25:12.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Apr-2019 11:25:12.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Répertoire de Java:     C:\Program Files\Java\jdk-12
+08-Apr-2019 11:25:12.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version de la JVM:           12+33
+08-Apr-2019 11:25:12.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM:            Oracle Corporation
+08-Apr-2019 11:25:12.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17
+08-Apr-2019 11:25:12.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.config.file=C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\conf\logging.properties
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djdk.tls.ephemeralDHKeySize=2048
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dignore.endorsed.dirs=
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.base=C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.home=C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.io.tmpdir=C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\temp
+08-Apr-2019 11:25:12.113 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path: [C:\Program Files\Java\jdk-12\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\IN-MP-021\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-12\bin;;C:\Users\IN-MP-021\AppData\Local\Programs\Microsoft VS Code\bin;.]
+08-Apr-2019 11:25:12.145 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+08-Apr-2019 11:25:12.317 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["ajp-nio-8009"]
+08-Apr-2019 11:25:12.317 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [546] millisecondes
+08-Apr-2019 11:25:12.348 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+08-Apr-2019 11:25:12.348 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets: [Apache Tomcat/9.0.17]
+08-Apr-2019 11:25:12.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\docs]
+08-Apr-2019 11:25:12.707 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom La création de l'instance de SecureRandom pour le générateur d'id de session en utilisant [SHA1PRNG] a pris [125] millisecondes
+08-Apr-2019 11:25:12.723 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\docs] de l'application web s'est terminé en [360] ms
+08-Apr-2019 11:25:12.723 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\examples]
+08-Apr-2019 11:25:13.051 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\examples] de l'application web s'est terminé en [328] ms
+08-Apr-2019 11:25:13.051 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\host-manager]
+08-Apr-2019 11:25:13.082 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\host-manager] de l'application web s'est terminé en [31] ms
+08-Apr-2019 11:25:13.082 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\manager]
+08-Apr-2019 11:25:13.129 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\manager] de l'application web s'est terminé en [47] ms
+08-Apr-2019 11:25:13.129 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\ROOT]
+08-Apr-2019 11:25:13.160 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\ROOT] de l'application web s'est terminé en [31] ms
+08-Apr-2019 11:25:13.160 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+08-Apr-2019 11:25:13.176 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["ajp-nio-8009"]
+08-Apr-2019 11:25:13.176 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [858] millisecondes
+08-Apr-2019 11:27:50.456 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:        Apache Tomcat/9.0.17
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé:       Mar 13 2019 15:55:27 UTC
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:      9.0.17.0
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS:           Windows 10
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version de l'OS:        10.0
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Répertoire de Java:     C:\Program Files\Java\jdk-12
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version de la JVM:           12+33
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM:            Oracle Corporation
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.config.file=C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\conf\logging.properties
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djdk.tls.ephemeralDHKeySize=2048
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dignore.endorsed.dirs=
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.base=C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.home=C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.io.tmpdir=C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\temp
+08-Apr-2019 11:27:50.471 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path: [C:\Program Files\Java\jdk-12\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\IN-MP-021\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-12\bin;;C:\Users\IN-MP-021\AppData\Local\Programs\Microsoft VS Code\bin;.]
+08-Apr-2019 11:27:50.518 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+08-Apr-2019 11:27:50.659 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["ajp-nio-8009"]
+08-Apr-2019 11:27:50.674 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [517] millisecondes
+08-Apr-2019 11:27:50.706 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+08-Apr-2019 11:27:50.706 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets: [Apache Tomcat/9.0.17]
+08-Apr-2019 11:27:50.721 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\docs]
+08-Apr-2019 11:27:51.081 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom La création de l'instance de SecureRandom pour le générateur d'id de session en utilisant [SHA1PRNG] a pris [125] millisecondes
+08-Apr-2019 11:27:51.096 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\docs] de l'application web s'est terminé en [375] ms
+08-Apr-2019 11:27:51.096 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\examples]
+08-Apr-2019 11:27:51.487 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\examples] de l'application web s'est terminé en [391] ms
+08-Apr-2019 11:27:51.487 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\host-manager]
+08-Apr-2019 11:27:51.518 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\host-manager] de l'application web s'est terminé en [31] ms
+08-Apr-2019 11:27:51.518 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\manager]
+08-Apr-2019 11:27:51.549 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\manager] de l'application web s'est terminé en [31] ms
+08-Apr-2019 11:27:51.549 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\ROOT]
+08-Apr-2019 11:27:51.581 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\IN-MP-021\Downloads\apache-tomcat-9.0.17\apache-tomcat-9.0.17\webapps\ROOT] de l'application web s'est terminé en [32] ms
+08-Apr-2019 11:27:51.581 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+08-Apr-2019 11:27:51.581 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["ajp-nio-8009"]
+08-Apr-2019 11:27:51.596 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [916] millisecondes
